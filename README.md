@@ -98,9 +98,9 @@ dashboard-microfrontends/
 ## 📦 Kurulum Talimatları
 
 ### 1. Repository'yi Fork Edin
-1. Bu repository'yi GitHub'da fork edin
-2. Fork edilmiş repository'yi **private** yapın
-3. `fatihemre` GitHub hesabını repository'nize **contributor** olarak ekleyin
+1. Bu repository'yi GitHub'da fork edin ya da klonlayın.
+2. Fork edilmiş/Klonlanmış repository'nize `fatihemre` GitHub hesabını **contributor** olarak ekleyin.
+3. Projenizi private ya da public yapabilirsiniz, tercih sizin.
 
 ### 2. Development Workflow
 ```bash
