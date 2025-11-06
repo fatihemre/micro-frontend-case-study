@@ -142,9 +142,9 @@ Projenizde aşağıdaki dokümantasyonu hazırlamanız beklenmektedir:
 
 ### Beklenen URL Yapısı
 ```
-https://dashboard-shell.vercel.app/          # Ana uygulama
-https://user-card-mf.vercel.app/            # User Card MF
-https://content-bar-mf.vercel.app/          # Content Bar MF
+https://dashboard-shell-container-name.vercel.app/          # Ana uygulama
+https://user-card-mf-container-name.vercel.app/            # User Card MF
+https://content-bar-mf-container-name.vercel.app/          # Content Bar MF
 ```
 
 ## 📋 Değerlendirme Kriterleri
