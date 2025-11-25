@@ -45,6 +45,9 @@ dashboard-microfrontends/
 - Mock content verisi
 - Basit hover efektleri
 
+### Mikro Uygulamalar Arası İletişim
+- User Card MF'deki bildirim sayısına tıklandığında, Content Bar MF'in içeriğini filtrelemesi veya bir mesaj (örneğin 'Bildirimler yüklendi') göstermesi beklenmektedir. Bu iletişim için Custom Events, Shared State Library (Zustand'ı share etme) veya Global Context gibi bir çözüm kullanın.
+
 ## 🎨 Tasarım Gereksinimleri
 
 ### Layout
